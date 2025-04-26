@@ -1,0 +1,23 @@
+e="echo -e"
+
+clear
+$e "[ HI BRO INSTALL MODULE JS ......👰]"
+
+sleep 0.9
+
+clear
+
+sudo apt-get install nodejs -y
+clear
+sudo apt-get install npm -y
+
+clear
+npm install axios
+clear
+
+clear
+npm install commander
+clear
+npm install ./package.json
+clear
+node index.js
