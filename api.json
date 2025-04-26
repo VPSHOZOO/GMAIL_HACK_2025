@@ -1,0 +1,10 @@
+{
+  "name": "hacked-emails-api",
+  "version": "1.0.0",
+  "description": "API client for hacked-emails.com",
+  "main": "hacked-emails-api.js",
+  "dependencies": {
+    "axios": "^1.6.7"
+  },
+  "license": "MIT"
+}
